@@ -1,7 +1,3 @@
-Here’s your GitHub README content rewritten in a more point-wise structure:
-
----
-
 ## **Business Understanding**
 
 Develop a system that can analyze historical trip data of Uber drivers to identify instances where drivers have deviated from their assigned routes. The system will detect these deviations, quantify them against established thresholds, and calculate appropriate fines for drivers who exceed the allowable limits.
@@ -41,5 +37,3 @@ Dead kilometers typically occur when a driver finishes a trip and needs to find 
 5. **OS**: Used for interacting with the operating system, such as accessing file paths.
 
 ---
-
-This structured approach makes the README more organized and easier to read!

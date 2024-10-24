@@ -7,8 +7,8 @@ Develop a system that can analyze historical trip data of Uber drivers to identi
 2.To Calculate the Dead Kilometers and Penalizes the Drivers if it exceeds a certain limit. 
 
 **Maximize :**
-*1.The accuracy of Dead Kilometers detection.*
-*2.Driver Retention*
+1.The accuracy of Dead Kilometers detection.
+2.Driver Retention
 3.Profit Maximization
 4.Customer Satisfaction
 

@@ -24,8 +24,8 @@ Definition: Dead kilometers refer to the distance traveled by a driver between t
 Cause: This typically occurs when a driver finishes a trip and needs to find another ride, leading to an idle time where fuel is consumed without generating revenue.
 
 **Technologies used**
-Pandas: For data manipulation and analysis.
-Matplotlib: For plotting graphs and visualizations.
-Gmplot: A library for plotting data on Google Maps, useful for geospatial visualizations.
-Geopy: A library used for calculating distances between geographic coordinates.
-Os: Used for interacting with the operating system, such as accessing file paths.
+**Pandas:** For data manipulation and analysis.
+**Matplotlib:** For plotting graphs and visualizations.
+**Gmplot:** A library for plotting data on Google Maps, useful for geospatial visualizations.
+**Geopy:** A library used for calculating distances between geographic coordinates.
+**Os:** Used for interacting with the operating system, such as accessing file paths.

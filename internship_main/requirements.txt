@@ -1,0 +1,10 @@
+sweetviz
+backports.functools_lru_cache
+backports.shutil_get_terminal_size
+pandas
+numpy
+matplotlib
+seaborn
+geopy
+gmplot
+ipython
